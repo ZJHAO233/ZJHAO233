@@ -16,9 +16,9 @@
 
 <img align="right" width="90px" src="com/zjhao/img/ZJHAO.gif" />
 
-🤪大家好，我是开心同学！
+🤪大家好，我是ZJHAO同学！
 
-🔮我嘞，热爱编程，喜欢折腾，极简主义！
+🔮我嘞，热爱编程，喜欢折腾！
 
 🧨男儿不展风云志，空负天生八尺躯！
 
