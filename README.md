@@ -1,16 +1,16 @@
 <!-- 动态打字效果: https://github.com/DenverCoder1/readme-typing-svg -->
 
-<div align="center">
+
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&pause=1000&color=F79111&center=true&vCenter=true&width=450&lines=console.log(%22%E5%81%9A%E8%87%AA%E5%B7%B1%E7%83%AD%E7%88%B1%EF%BC%8C%E8%AE%A9%E5%BF%83%E6%AC%A2%E5%96%9C%E7%9A%84%E4%BA%8B%EF%BC%81%22)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&pause=1000&color=F79111&center=true&vCenter=true&width=450&lines=console.log(ZJHAO%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%BF%83%E6%84%89%E5%BF%AB%2C%E6%97%A5%E8%BF%9B%E6%96%97%E9%87%91)" alt="Typing SVG" />
   </a>
 </div>
-
 
 <table>
 
 
-<tr><td>
+<tr weight=100%><td>
 
 ## ✒️关于我
 
@@ -33,9 +33,6 @@
 </div>
 
 </td></tr>
-
-
-
 
 
 <tr><td>
@@ -82,6 +79,7 @@
 </div>
 </td></tr>
 
-
-<div width = "100%"></div>
 </table>
+<!-- 奖杯 
+<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ZJHAO233" /> </div>
+-->
