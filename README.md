@@ -42,7 +42,7 @@
 
 ## ⚽我的作品
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ZJHAO233&repo=Typora-theme-ZJHAO233)]()
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=ZJHAO233&repo=Typora-theme-ZJHAO233)]() -->
 
 </td></tr>
 
@@ -77,8 +77,6 @@
 <div style="text-align: center">
 <!-- Github概况: https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=ZJHAO233&show_icons=true&theme=vue" style="height: 180px; display:inline;margin-right:10px;"/>
-<!-- 常用语言统计: https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZJHAO233&layout=donut&langs_count=6" style="height: 180px; display:inline;"/>
 </div>
 </td></tr>
 
