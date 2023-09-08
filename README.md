@@ -77,9 +77,11 @@
 <div style="text-align: center">
 <!-- Github概况: https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=ZJHAO233&show_icons=true&theme=vue" style="height: 180px; display:inline;margin-right:10px;"/>
+<!-- 常用语言统计: https://github.com/anuraghazra/github-readme-stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappySimple&layout=donut&langs_count=6" style="height: 180px; display:inline;"/>
 </div>
 </td></tr>
 
 
-
+<div width = "100%"></div>
 </table>
