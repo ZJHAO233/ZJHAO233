@@ -24,7 +24,7 @@
 
 
 <div style="text-align: left;">
-<a href="https://www.ZJHAO233.club">
+<a href="[https://www.ZJHAO233.club](https://flowus.cn/zjhao/d267eb2a-c4e3-4471-aacd-01e0ab9b5776)">
 <img alt="Static Badge" src="https://img.shields.io/badge/Blog-ZJHAO233-green?style=flat-square">
 </a>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
