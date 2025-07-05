@@ -16,11 +16,9 @@
 
 <img align="right" width="90px" src="com/zjhao/img/ZJHAO.gif" />
 
-🤪大家好，我是ZJHAO同学！
+🤪大家好，我是ZJHAO！
 
-🔮我嘞，热爱编程，喜欢折腾！
-
-🧨男儿不展风云志，空负天生八尺躯！
+🔮愿你早日抵达内心的瓦尔登湖
 
 
 <div style="text-align: left;">
@@ -48,18 +46,6 @@
 
 
 <tr><td>
-
-## 📊技术栈
-
-- Java
-- MySQL
-- Spring、Spring MVC、Mybatis、SpringBoot……等核心框架
-- Linux
-- Git
-- Maven
-- Hadoop
-- Hive
-- HTML、CSS、JS、Vue
 
 </td></tr>
 
