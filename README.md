@@ -1,5 +1,5 @@
 <!-- 动态打字效果: https://github.com/DenverCoder1/readme-typing-svg -->
-<div align="left">
+<div align="auto">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&pause=1000&color=F79111&center=true&vCenter=true&width=450&lines=%E6%84%BF%E4%BD%A0%E6%97%A9%E6%97%A5%E6%8A%B5%E8%BE%BE%E5%86%85%E5%BF%83%E7%9A%84%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96" alt="Typing SVG"/>
   </a>
@@ -35,7 +35,7 @@
 </td></tr>
 
 <tr><td>
-  <img align="lift" weight = auto src = "com/zjhao/img/横图.jpg">
+  <img align="lift" weight = "auto" src = "com/zjhao/img/横图.jpg">
 
 <!-- ## ⚽ 我的作品 -->
 
