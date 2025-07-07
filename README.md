@@ -35,7 +35,7 @@
 </td></tr>
 
 <tr><td>
-  <img align="lift" src = "com/zjhao/img/横图.jpg">
+  <img align="lift" weight = auto src = "com/zjhao/img/横图.jpg">
 
 <!-- ## ⚽ 我的作品 -->
 
