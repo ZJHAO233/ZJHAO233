@@ -5,10 +5,6 @@
   </a>
 </div>
 
-<div>
-  <img src = "com/zjhao/img/横图.jpg">
-</div>
-
 <table>
 
 <tr weight=100%><td>
@@ -26,10 +22,12 @@
 
 <img align="right" width="90px" src="com/zjhao/img/ZJHAO.gif" />
 
-#### “To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.
+`“To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.”`
 
 </td></tr>
-
+<div>
+  <img src = "com/zjhao/img/横图.jpg">
+</div>
 <tr><td>
 
 <!-- ## ⚽ 我的作品 -->
