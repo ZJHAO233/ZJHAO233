@@ -1,25 +1,27 @@
 <!-- 动态打字效果: https://github.com/DenverCoder1/readme-typing-svg -->
-
-
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&pause=1000&color=F79111&center=true&vCenter=true&width=450&lines==ZJHAO%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%BF%83%E6%84%89%E5%BF%AB%2C%E6%97%A5%E8%BF%9B%E6%96%97%E9%87%91" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&pause=1000&color=F79111&center=true&vCenter=true&width=450&lines=%E6%84%BF%E4%BD%A0%E6%97%A9%E6%97%A5%E6%8A%B5%E8%BE%BE%E5%86%85%E5%BF%83%E7%9A%84%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96" alt="Typing SVG"/>
   </a>
+</div>
+
+<div>
+  <img src = "com/zjhao/img/横图.jpg">
 </div>
 
 <table>
 
-
 <tr weight=100%><td>
 
-## ✒️关于我
+## ✒️ 关于我
 
 <img align="right" width="90px" src="com/zjhao/img/ZJHAO.gif" />
 
-🤪大家好，我是ZJHAO！
+🤪 大家好，我是 ZJHAO！
 
-🔮愿你早日抵达内心的瓦尔登湖
+🔮
 
+- “To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.
 
 <div style="text-align: left;">
 <a href="[https://www.ZJHAO233.club](https://flowus.cn/zjhao/d267eb2a-c4e3-4471-aacd-01e0ab9b5776)">
@@ -32,30 +34,21 @@
 
 </td></tr>
 
-
 <tr><td>
 
-## ⚽我的作品
+## ⚽ 我的作品
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=ZJHAO233&repo=Typora-theme-ZJHAO233)]() -->
 
 </td></tr>
 
-
-
-
-
 <tr><td>
 
 </td></tr>
 
-
-
-
-
 <tr><td>
 
-## 👀Github概况
+## 👀Github 概况
 
 <div style="text-align: center">
 <!-- Github概况: https://github.com/anuraghazra/github-readme-stats -->
