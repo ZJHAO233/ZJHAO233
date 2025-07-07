@@ -13,30 +13,26 @@
 
 <tr weight=100%><td>
 
-## ✒️ 关于我
+## ✒️Welcome to ZJHAO
+
+<div style="text-align: right;">
+  <a href="[https://www.ZJHAO233.club](https://flowus.cn/zjhao/d267eb2a-c4e3-4471-aacd-01e0ab9b5776)">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Blog-ZJHAO233-green?style=flat-square">
+  </a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img alt="" src="https://komarev.com/ghpvc/?username=ZJHAO233&style=flat-square&label=Profile+views&color=orange">
+  </a>
+</div>
 
 <img align="right" width="90px" src="com/zjhao/img/ZJHAO.gif" />
 
-🤪 大家好，我是 ZJHAO！
-
-🔮
-
-- “To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.
-
-<div style="text-align: left;">
-<a href="[https://www.ZJHAO233.club](https://flowus.cn/zjhao/d267eb2a-c4e3-4471-aacd-01e0ab9b5776)">
-<img alt="Static Badge" src="https://img.shields.io/badge/Blog-ZJHAO233-green?style=flat-square">
-</a>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-<img alt="" src="https://komarev.com/ghpvc/?username=ZJHAO233&style=flat-square&label=Profile+views&color=orange">
-</a>
-</div>
+#### “To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.
 
 </td></tr>
 
 <tr><td>
 
-## ⚽ 我的作品
+<!-- ## ⚽ 我的作品 -->
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=ZJHAO233&repo=Typora-theme-ZJHAO233)]() -->
 
