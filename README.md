@@ -25,6 +25,7 @@
 > To see the world, things dangerous to come to,
 >
 > to see behind walls, to draw closer,
+>
 > to find each other and to feel. That is the purpose of life.
 
 <!-- <p style="color: rgb(219, 223, 8); font-size: 2rem">
