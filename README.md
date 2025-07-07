@@ -22,11 +22,15 @@
 
 <img align="right" width="90px" src="com/zjhao/img/ZJHAO.gif" />
 
-> “To see the world, things dangerous to come to,
->
-> to see behind walls, to draw closer,
->
-> to find each other and to feel. That is the purpose of life.”
+<p style="color: rgb(219, 223, 8); font-size: 2rem">
+  To see the world, things dangerous to come to,
+</p>
+<p style="color: rgb(219, 223, 8); font-size: 2rem">
+  to see behind walls, to draw closer,
+</p>
+<p style="color: rgb(219, 223, 8); font-size: 2rem">
+  to find each other and to feel. That is the purpose of life.
+</p>
 
 </td></tr>
 
