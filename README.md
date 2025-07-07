@@ -25,8 +25,9 @@
 `“To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.”`
 
 </td></tr>
-  <img align="lift" width=80% src = "com/zjhao/img/横图.jpg">
+
 <tr><td>
+  <img align="lift" width=80% src = "com/zjhao/img/横图.jpg">
 
 <!-- ## ⚽ 我的作品 -->
 
