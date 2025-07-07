@@ -22,12 +22,12 @@
 
 <img align="right" width="90px" src="com/zjhao/img/ZJHAO.gif" />
 
-`“To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.”`
+> “To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.”
 
 </td></tr>
 
 <tr><td>
-  <img align="lift" width=80% src = "com/zjhao/img/横图.jpg">
+  <img align="lift" src = "com/zjhao/img/横图.jpg">
 
 <!-- ## ⚽ 我的作品 -->
 
